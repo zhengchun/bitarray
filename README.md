@@ -1,4 +1,4 @@
-bitarray 
+bitarray [![GoDoc](https://godoc.org/github.com/zhengchun/bitarray?status.svg)](https://godoc.org/github.com/zhengchun/bitarray)
 ===
 Word Aligned Hybrid (WAH) Compression for BitArrays. 
 
